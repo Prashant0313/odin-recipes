@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    background-color: rgb(240, 77, 77);
+    text-align: center;
+    color: white;
+    padding: 8px;
+}
+
+.recipe-links {
+    display: flex;
+    text-align: center;
+}
+
+.recipe-images {
+    margin: 8px;
+    width: 250px;
+    height: 250px;
+}
